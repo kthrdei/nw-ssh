@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nw-ssh"
-version = "1.0.2"
+version = "1.0.3"
 description = "Simple ssh client with asyncssh for network devices"
 authors = ["kthrdei <kthrd.tech@gmail.com>"]
 readme = "README.md"

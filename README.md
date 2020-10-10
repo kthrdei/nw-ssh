@@ -38,7 +38,16 @@ loop = asyncio.get_event_loop()
 loop.run_until_complete(main())
 ```
 
+# Requirements
+- Python >= 3.6
+- asyncssh
+
+
+# Installation
+```
+pip install nw-ssh
+```
+
 
 # License
 MIT
-
