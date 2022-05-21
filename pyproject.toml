@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "nw-ssh"
-version = "1.0.3"
+version = "1.0.4"
 description = "Simple ssh client with asyncssh for network devices"
-authors = ["kthrdei <kthrd.tech@gmail.com>"]
+authors = ["dei"]
 readme = "README.md"
 keywords = ['ssh', 'network']
 license = "MIT"
@@ -10,7 +10,7 @@ repository = "https://github.com/kthrdei/nw-ssh"
 homepage = "https://github.com/kthrdei/nw-ssh"
 
 [tool.poetry.dependencies]
-python = "^3.6"
+python = "^3.7"
 asyncssh = "^2.4.2"
 
 [tool.poetry.dev-dependencies]
